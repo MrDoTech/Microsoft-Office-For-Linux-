@@ -66,7 +66,7 @@ In each folder you will find two different Electron applications:
 Outlook: This is mostly a copy from Tom's code, it's the original Electron app focused on enabling Outlook
 Office: While this should also work with Outlook (it contains most of the code from the Outlook folder), it defaults to opening OneDrive where you have a menu to get you to any of Office, plus a bunch of additional code that should enable using the different Office applications on the web
 Download and Install
-If you just want to download the installers, go here.
+If you just want to download the installers, go here. https://github.com/matvelloso/electron-office/releases
 
 May the Force be with you...
 
